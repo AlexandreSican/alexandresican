@@ -1,5 +1,4 @@
 ### Olá, sou o Alexandre Sicchieri Cancian
-  - 📜 Estou atualmente estudando React
   
 
 
